@@ -58,8 +58,8 @@
     "description": "Let's tawk"  
   }
   {
-    "name": "performance 🚀",
-    "color": "6b63c6",
+    "name": "performance 🏎️",
+    "color": "54c9c9",
     "description": ""  
   }  
 ].forEach(function(label) {
