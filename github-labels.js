@@ -56,7 +56,7 @@
     "name": "needs discussion 🏴",
     "color": "afafaf",
     "description": "Let's tawk"  
-  }
+  },
   {
     "name": "performance 🏎️",
     "color": "54c9c9",
